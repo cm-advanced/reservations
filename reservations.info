@@ -34,6 +34,6 @@ files[] = theme/theme.inc
 
 package = Reservations
 core = 7.x
-version = 7.x-3.0
+version = 7.x-3.1
 project = "reservations"
 project_status_url = https://github.com/cm-advanced/reservations
